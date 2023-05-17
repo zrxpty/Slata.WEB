@@ -1,0 +1,15 @@
+C:\visualStuido\WEB_DEVELOP\Slata\backend\Slata.BLL\bin\Debug\net6.0\Slata.BLL.deps.json
+C:\visualStuido\WEB_DEVELOP\Slata\backend\Slata.BLL\bin\Debug\net6.0\Slata.BLL.dll
+C:\visualStuido\WEB_DEVELOP\Slata\backend\Slata.BLL\bin\Debug\net6.0\Slata.BLL.pdb
+C:\visualStuido\WEB_DEVELOP\Slata\backend\Slata.BLL\bin\Debug\net6.0\Slata.DAL.dll
+C:\visualStuido\WEB_DEVELOP\Slata\backend\Slata.BLL\bin\Debug\net6.0\Slata.DAL.pdb
+C:\visualStuido\WEB_DEVELOP\Slata\backend\Slata.BLL\obj\Debug\net6.0\Slata.BLL.csproj.AssemblyReference.cache
+C:\visualStuido\WEB_DEVELOP\Slata\backend\Slata.BLL\obj\Debug\net6.0\Slata.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\visualStuido\WEB_DEVELOP\Slata\backend\Slata.BLL\obj\Debug\net6.0\Slata.BLL.AssemblyInfoInputs.cache
+C:\visualStuido\WEB_DEVELOP\Slata\backend\Slata.BLL\obj\Debug\net6.0\Slata.BLL.AssemblyInfo.cs
+C:\visualStuido\WEB_DEVELOP\Slata\backend\Slata.BLL\obj\Debug\net6.0\Slata.BLL.csproj.CoreCompileInputs.cache
+C:\visualStuido\WEB_DEVELOP\Slata\backend\Slata.BLL\obj\Debug\net6.0\Slata.BLL.csproj.CopyComplete
+C:\visualStuido\WEB_DEVELOP\Slata\backend\Slata.BLL\obj\Debug\net6.0\Slata.BLL.dll
+C:\visualStuido\WEB_DEVELOP\Slata\backend\Slata.BLL\obj\Debug\net6.0\refint\Slata.BLL.dll
+C:\visualStuido\WEB_DEVELOP\Slata\backend\Slata.BLL\obj\Debug\net6.0\Slata.BLL.pdb
+C:\visualStuido\WEB_DEVELOP\Slata\backend\Slata.BLL\obj\Debug\net6.0\ref\Slata.BLL.dll

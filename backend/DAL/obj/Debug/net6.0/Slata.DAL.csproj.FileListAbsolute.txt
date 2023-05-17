@@ -1,0 +1,14 @@
+C:\visualStuido\WEB_DEVELOP\Slata\backend\DAL\bin\Debug\net6.0\Slata.DAL.deps.json
+C:\visualStuido\WEB_DEVELOP\Slata\backend\DAL\bin\Debug\net6.0\Slata.DAL.runtimeconfig.json
+C:\visualStuido\WEB_DEVELOP\Slata\backend\DAL\bin\Debug\net6.0\Slata.DAL.dll
+C:\visualStuido\WEB_DEVELOP\Slata\backend\DAL\bin\Debug\net6.0\Slata.DAL.pdb
+C:\visualStuido\WEB_DEVELOP\Slata\backend\DAL\obj\Debug\net6.0\Slata.DAL.csproj.AssemblyReference.cache
+C:\visualStuido\WEB_DEVELOP\Slata\backend\DAL\obj\Debug\net6.0\Slata.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\visualStuido\WEB_DEVELOP\Slata\backend\DAL\obj\Debug\net6.0\Slata.DAL.AssemblyInfoInputs.cache
+C:\visualStuido\WEB_DEVELOP\Slata\backend\DAL\obj\Debug\net6.0\Slata.DAL.AssemblyInfo.cs
+C:\visualStuido\WEB_DEVELOP\Slata\backend\DAL\obj\Debug\net6.0\Slata.DAL.csproj.CoreCompileInputs.cache
+C:\visualStuido\WEB_DEVELOP\Slata\backend\DAL\obj\Debug\net6.0\Slata.DAL.dll
+C:\visualStuido\WEB_DEVELOP\Slata\backend\DAL\obj\Debug\net6.0\refint\Slata.DAL.dll
+C:\visualStuido\WEB_DEVELOP\Slata\backend\DAL\obj\Debug\net6.0\Slata.DAL.pdb
+C:\visualStuido\WEB_DEVELOP\Slata\backend\DAL\obj\Debug\net6.0\Slata.DAL.genruntimeconfig.cache
+C:\visualStuido\WEB_DEVELOP\Slata\backend\DAL\obj\Debug\net6.0\ref\Slata.DAL.dll
